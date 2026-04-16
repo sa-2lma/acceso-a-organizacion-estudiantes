@@ -1,8 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/d-5IDS4Q)
 
-Juan Nadie (Introduce tu nombre completo)
+Juan Nadie (Salma Zendaoui)
 
-Grupo A1 (Introducir grupo de trabajo)
+Grupo B2
 
 <!-- start-PR -->
 | Archivo           | Resultado         |
